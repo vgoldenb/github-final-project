@@ -7,6 +7,3 @@ Input:
    
 Output
 * simple interest = p \* t \* r
-
-
-# test change
